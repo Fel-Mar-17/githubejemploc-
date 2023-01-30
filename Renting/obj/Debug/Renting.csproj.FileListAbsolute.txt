@@ -1,0 +1,16 @@
+C:\Users\Felipe\Desktop\Metodologia U Compensar\Renting\Renting\bin\Debug\Renting.exe.config
+C:\Users\Felipe\Desktop\Metodologia U Compensar\Renting\Renting\bin\Debug\Renting.exe
+C:\Users\Felipe\Desktop\Metodologia U Compensar\Renting\Renting\bin\Debug\Renting.pdb
+C:\Users\Felipe\Desktop\Metodologia U Compensar\Renting\Renting\obj\Debug\Renting.csproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\Metodologia U Compensar\Renting\Renting\obj\Debug\Renting.csproj.SuggestedBindingRedirects.cache
+C:\Users\Felipe\Desktop\Metodologia U Compensar\Renting\Renting\obj\Debug\Renting.CrearCuenta.resources
+C:\Users\Felipe\Desktop\Metodologia U Compensar\Renting\Renting\obj\Debug\Renting.Index.resources
+C:\Users\Felipe\Desktop\Metodologia U Compensar\Renting\Renting\obj\Debug\Renting.Properties.Resources.resources
+C:\Users\Felipe\Desktop\Metodologia U Compensar\Renting\Renting\obj\Debug\Renting.csproj.GenerateResource.cache
+C:\Users\Felipe\Desktop\Metodologia U Compensar\Renting\Renting\obj\Debug\Renting.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Metodologia U Compensar\Renting\Renting\obj\Debug\Renting.exe
+C:\Users\Felipe\Desktop\Metodologia U Compensar\Renting\Renting\obj\Debug\Renting.pdb
+C:\Users\Felipe\Desktop\Metodologia U Compensar\Renting\Renting\bin\Debug\Renting.exe.manifest
+C:\Users\Felipe\Desktop\Metodologia U Compensar\Renting\Renting\bin\Debug\Renting.application
+C:\Users\Felipe\Desktop\Metodologia U Compensar\Renting\Renting\obj\Debug\Renting.exe.manifest
+C:\Users\Felipe\Desktop\Metodologia U Compensar\Renting\Renting\obj\Debug\Renting.application
